@@ -1,0 +1,13 @@
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\bin\Debug\netstandard2.0\XamarinAcctapp.deps.json
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\bin\Debug\netstandard2.0\XamarinAcctapp.dll
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\XamarinAcctapp.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\XamarinAcctapp.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\XamarinAcctapp.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\bin\Debug\netstandard2.0\ref\XamarinAcctapp.dll
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\bin\Debug\netstandard2.0\XamarinAcctapp.pdb
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\XamarinAcctapp.dll
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\ref\XamarinAcctapp.dll
+C:\Users\Jacob\source\repos\MyXamarinAPI\XamarinAcctapp\XamarinAcctapp\obj\Debug\netstandard2.0\XamarinAcctapp.pdb
